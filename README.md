@@ -1,1 +1,2 @@
-# FUNDACI-N-MSG
+# FUNDACIÓN MSG
+En el presente repositorio vamos implementar la etapa de análisis orientado a objetos (clases entidad, modelo dinámico) de una fundación llamada MSG () que otorga hipotecas a parejas cualificadas para este beneficio. A parte, recibe un aporte anualmente para otorgar becas a estudiantes; que si sobresalen en sus estudios (calificaciones) podrán ser condonados debido a sus esfuerzos.
