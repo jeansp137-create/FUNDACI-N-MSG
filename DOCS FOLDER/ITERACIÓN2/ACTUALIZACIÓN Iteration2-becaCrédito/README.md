@@ -1,4 +1,4 @@
-# Iteration 2 � Incorporaci�n de becas-cr�dito
+# Iteration 2 --- Incorporaci�n de becas-cr�dito
 
 Esta iteraci�n incorpora un nuevo requerimiento al sistema
 de informaci�n de la Fundaci�n MSG.
