@@ -1,2 +1,115 @@
-# FUNDACIÓN MSG
-En el presente repositorio vamos implementar la etapa de análisis orientado a objetos (clases entidad, modelo dinámico) de una fundación llamada MSG () que otorga hipotecas a parejas cualificadas para este beneficio. A parte, recibe un aporte anualmente para otorgar becas a estudiantes; que si sobresalen en sus estudios (calificaciones) podrán ser condonados debido a sus esfuerzos.
+# Análisis Orientado a Objetos — Fundación MSG (MSGF)
+
+Este repositorio contiene los modelos de análisis orientado a objetos desarrollados en el marco del **Proceso Unificado de Ingeniería de Software** para el caso de estudio de la **Fundación MSG (MSG Foundation)**. El objetivo principal es documentar el proceso de diseño iterativo e incremental mediante la elaboración de diagramas UML elaborados en [draw.io](https://app.diagrams.net/).
+
+---
+
+## 📌 Contexto del Proyecto
+
+La Fundación MSG es una organización dedicada a la gestión de fondos para facilitar el acceso a vivienda mediante créditos hipotecarios e inversiones financieras. A medida que el sistema evoluciona, se incorporan nuevas líneas de impacto social, requiriendo adaptar los modelos arquitectónicos y conceptuales del software.
+
+El modelado se divide en dos grandes momentos de desarrollo:
+
+1. **Gestión Hipotecaria e Inversiones (Iteración 1):** Administración de hipotecas para familias cualificadas, estimación semanal de fondos disponibles, gestión de activos e informes financieros.
+
+
+2. **Incorporación de Becas-Crédito (Iteración 2):** Gestión de aportes anuales destinados a becas de estudio otorgadas semestralmente. Incluye el seguimiento académico de los estudiantes para determinar la condonación total/parcial de la deuda o el cobro de la matrícula según su rendimiento.
+
+
+
+---
+
+## 🎯 Objetivos de Aprendizaje
+
+* Aplicar las disciplinas de **Elicitación de Requerimientos** y **Análisis Orientado a Objetos (AOO)** según el Proceso Unificado.
+
+
+* Comprender el impacto de los cambios de alcance en los artefactos de software a través del modelado **iterativo e incremental**.
+
+
+* Identificar la estructura y responsabilidad de las **Clases Entidad, Límite (*Boundary*) y Control (*Control*)** aplicando el patrón ECB (Análisis de Robustez).
+
+
+* Analizar el comportamiento dinámico del sistema mediante **Diagramas de Máquinas de Estado**.
+
+
+
+---
+
+## 📁 Estructura del Repositorio
+
+```text
+MSGF-Analysis/
+├── README.md
+├── Iteration1/
+│   ├── 1. MSG-F General Use Case.drawio
+│   ├── 2. MSG-F Entity Classes.drawio
+│   ├── 3. MSG-F MachineStateChart.drawio
+│   └── 4. MSG-F Boundary and Control Classes.drawio
+└── Iteration2-becaCrédito/
+    ├── 1. MSG-F General Use Case.drawio
+    ├── 2. MSG-F Entity Classes.drawio
+    ├── 3. MSG-F MachineStateChart.drawio
+    └── 4. MSG-F Boundary and Control Classes.drawio
+
+```
+
+
+
+---
+
+## 📊 Artefactos Desarrollados
+
+### 🔹 Iteración 1: Requerimientos Base
+
+En esta fase inicial se modela el núcleo de operación de la fundación enfocado en hipotecas e inversiones:
+
+| Artefacto | Descripción | Archivo |
+| --- | --- | --- |
+| **Casos de Uso** | Delimitación del alcance general del sistema y los actores involucrados.
+
+ | `Iteration1/1. MSG-F General Use Case.drawio`
+
+ |
+| **Clases Entidad** | Identificación del modelo del dominio (hipotecas, inversiones, egresos, etc.).
+
+ | `Iteration1/2. MSG-F Entity Classes.drawio`
+
+ |
+| **Máquina de Estados** | Representación del comportamiento dinámico y ciclo de vida del sistema.
+
+ | `Iteration1/3. MSG-F MachineStateChart.drawio`
+
+ |
+| **Clases Límite y Control** | Definición de interfaces de usuario y componentes controladores de lógica.
+
+ | `Iteration1/4. MSG-F Boundary and Control Classes.drawio`
+
+ |
+
+### 🔹 Iteración 2: Extensión Becas-Crédito
+
+Se actualizan los modelos de la iteración anterior para incorporar el flujo de becas condonables:
+
+* **Casos de Uso:** Inclusión de actores e interacciones para el registro de aportes y gestión de becas.
+
+
+* **Clases Entidad:** Incorporación del modelo de datos para estudiantes, matrículas y estado de becas.
+
+
+* **Clases Límite y Control:** Se mantiene un nivel de **granularidad arquitectónica alto** (*coarse-grained*). En lugar de multiplicar la cantidad de clases límite y de control para cada subproceso de becas, se generaliza la responsabilidad en la clase de control `Update of MSG App data` para concentrar la lógica de cálculo y actualización global.
+
+
+
+---
+
+## 🛠️ Herramientas y Metodología
+
+* **Lenguaje de Modelado:** UML 2.x
+* **Herramienta de Diagramación:** [draw.io (diagrams.net)](https://app.diagrams.net/)
+
+
+* **Metodología:** Proceso Unificado de Ingeniería de Software (RUP/UP) - Enfoque orientado a objetos
+
+
+* **Texto de Referencia:** *Classical and Object Oriented Software Engineering* (Stephen R. Schach)
