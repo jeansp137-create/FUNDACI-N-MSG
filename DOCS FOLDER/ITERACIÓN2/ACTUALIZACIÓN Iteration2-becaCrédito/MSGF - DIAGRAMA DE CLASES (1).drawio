@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="HVwsge69hKG7Romn15QN">
+    <mxGraphModel dx="1038" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-110" edge="1" parent="1" source="E3CcXxvAo6CYev3NGwQB-120" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="E3CcXxvAo6CYev3NGwQB-112" value="Extiende">
+          <mxGeometry relative="1" width="160" x="-0.7944" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="345" y="431" />
+              <mxPoint x="635" y="431" />
+            </Array>
+            <mxPoint x="491" y="485" as="sourcePoint" />
+            <mxPoint x="635" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-111" edge="1" parent="1" source="E3CcXxvAo6CYev3NGwQB-116" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="E3CcXxvAo6CYev3NGwQB-112" value="Extiende">
+          <mxGeometry relative="1" width="160" x="-0.3824" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="780" y="483" as="sourcePoint" />
+            <mxPoint x="635" y="371" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-112" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Activo" vertex="1">
+          <mxGeometry height="86" width="160" x="555" y="281" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-113" parent="E3CcXxvAo6CYev3NGwQB-112" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="número de activo" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-114" parent="E3CcXxvAo6CYev3NGwQB-112" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-115" parent="E3CcXxvAo6CYev3NGwQB-112" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-116" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Hipoteca" vertex="1">
+          <mxGeometry height="234" width="230" x="520" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-117" parent="E3CcXxvAo6CYev3NGwQB-116" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="apellidoDeLosHipotecarios&lt;br&gt;precio de compra original&lt;br&gt;Fecha de emisión de la hipoteca&lt;br&gt;Pago semanal de capital e intereses&lt;br&gt;Ingresos semanales combinados&lt;br&gt;Saldo de la hipoteca&lt;br&gt;Fecha de actualización de los ingresos semanales combinados&lt;br&gt;Impuesto anual sobre bienes inmuebles&lt;br&gt;Fecha de actualización del impuesto anual sobre bienes inmuebles&lt;br&gt;Prima anual del seguro" vertex="1">
+          <mxGeometry height="174" width="230" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-118" parent="E3CcXxvAo6CYev3NGwQB-116" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="230" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-119" parent="E3CcXxvAo6CYev3NGwQB-116" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="26" width="230" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-120" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Inversión" vertex="1">
+          <mxGeometry height="146" width="230" x="230" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-121" parent="E3CcXxvAo6CYev3NGwQB-120" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombre de la inversión&lt;br&gt;rendimiento anual estimado&lt;br&gt;Fecha de regreso estimado actualizada" vertex="1">
+          <mxGeometry height="86" width="230" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-122" parent="E3CcXxvAo6CYev3NGwQB-120" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="230" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-123" parent="E3CcXxvAo6CYev3NGwQB-120" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="26" width="230" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-124" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Aplicación MSG" vertex="1">
+          <mxGeometry height="194" width="300" x="230" y="91" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-125" parent="E3CcXxvAo6CYev3NGwQB-124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Gastos operativos anuales estimados&lt;br&gt;Fecha de estimación de gastos operativos anuales actualizados&lt;br&gt;Fondos disponibles para la semana&lt;br&gt;Rentabilidad anual esperada de las inversiones&lt;br&gt;Fecha de actualización: Rentabilidad anual esperada de las inversiones&lt;br&gt;Subvenciones previstas para la semana&lt;br&gt;Pagos hipotecarios previstos para la semana" vertex="1">
+          <mxGeometry height="134" width="300" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-126" parent="E3CcXxvAo6CYev3NGwQB-124" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="300" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-127" parent="E3CcXxvAo6CYev3NGwQB-124" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="26" width="300" y="168" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-128" parent="1" style="text;whiteSpace=wrap;" value="Herencia" vertex="1">
+          <mxGeometry height="40" width="90" x="20" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-129" edge="1" parent="1" source="E3CcXxvAo6CYev3NGwQB-130" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" target="E3CcXxvAo6CYev3NGwQB-115" value="Extiende">
+          <mxGeometry relative="1" width="160" x="-0.8" y="-5" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="920" y="431" />
+              <mxPoint x="635" y="431" />
+            </Array>
+            <mxPoint x="920" y="503" as="sourcePoint" />
+            <mxPoint x="695" y="421" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-130" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Préstamo para becas condonable" vertex="1">
+          <mxGeometry height="190" width="230" x="806" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-131" parent="E3CcXxvAo6CYev3NGwQB-130" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nombreDelEstudiante&lt;br&gt;#deSemestresOtorgados&lt;br&gt;valor de matrícula inicial&lt;br&gt;fecha del premio&lt;br&gt;último desembolso&lt;br&gt;Fecha del último desembolso&lt;br&gt;Promedio de calificaciones del último semestre" vertex="1">
+          <mxGeometry height="124" width="230" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-132" parent="E3CcXxvAo6CYev3NGwQB-130" style="line;strokeWidth=1;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="8" width="230" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-133" parent="E3CcXxvAo6CYev3NGwQB-130" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="32" width="230" y="158" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
