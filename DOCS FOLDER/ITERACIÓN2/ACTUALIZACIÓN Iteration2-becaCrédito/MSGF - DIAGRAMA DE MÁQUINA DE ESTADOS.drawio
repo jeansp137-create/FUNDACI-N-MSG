@@ -1,0 +1,197 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="HVwsge69hKG7Romn15QN">
+    <mxGraphModel dx="5016" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-139" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-3347.930496710575" y="507.9292610919838" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-140" edge="1" parent="1" source="E3CcXxvAo6CYev3NGwQB-139" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3057.930496710575" y="747.9292610919838" as="sourcePoint" />
+            <mxPoint x="-3322.930496710575" y="717.9292610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-141" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="-2907.930496710575" y="507.9292610919838" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-142" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="E3CcXxvAo6CYev3NGwQB-141" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2882.930496710575" y="717.9292610919838" as="sourcePoint" />
+            <mxPoint x="-3007.930496710575" y="697.9292610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-143" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=light-dark(#1a1919, #ededed);" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="-2892.930496710575" y="522.9292610919838" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="CICLO DE EJECUCIÓN PRINCIPAL" vertex="1">
+          <mxGeometry height="60" width="923.93" x="-3423.93" y="717.93" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Calcula e imprime los fondos disponibles para la semana actual&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="150" x="-3438.929345333215" y="967.9292690392697" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-146" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0.98;entryY=0.315;entryDx=0;entryDy=0;" target="E3CcXxvAo6CYev3NGwQB-145" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3438.930496710575" y="1007.9292610919838" as="sourcePoint" />
+            <mxPoint x="-3368.930496710575" y="1007.9292610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Agregar, eliminar o modificar una hipoteca, inversión o préstamo para becas Fogiveble." vertex="1">
+          <mxGeometry height="130" width="150" x="-3244.930496710575" y="967.9292610919838" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-148" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0.98;entryY=0.315;entryDx=0;entryDy=0;" target="E3CcXxvAo6CYev3NGwQB-147" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3244.930496710575" y="1007.9292610919838" as="sourcePoint" />
+            <mxPoint x="-3174.930496710575" y="1007.9292610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Actualizar los gastos operativos anuales estimados." vertex="1">
+          <mxGeometry height="130" width="150" x="-3058.930496710575" y="967.9292610919838" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-150" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0.98;entryY=0.315;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3058.930496710575" y="1047.9792610919837" as="sourcePoint" />
+            <mxPoint x="-2908.930496333215" y="1047.9271777059364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Imprima una lista de todas las hipotecas o inversiones" vertex="1">
+          <mxGeometry height="130" width="150" x="-2650.000496710575" y="967.9292610919838" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-152" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2650.000497" y="1007.429261" as="sourcePoint" />
+            <mxPoint x="-2500.000497" y="1007.429261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Estimación de fondos para la semana&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="-3438.929345333215" y="967.9292690392697" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-162" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Gestión de un activo&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="84.5" x="-3207.930496710575" y="977.9292610919838" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Actualización de la estimación anual Gastos de funcionamiento&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="150" x="-3062.929345333215" y="997.9292690392697" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-164" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Elaboración de un informe&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="109" x="-2629.4993453332154" y="977.9292690392697" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-165" edge="1" parent="1" source="E3CcXxvAo6CYev3NGwQB-145" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3107.930496710575" y="1117.9292610919838" as="sourcePoint" />
+            <mxPoint x="-3363.930496710575" y="1277.9292610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-166" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3166.180496710575" y="1097.9292610919838" as="sourcePoint" />
+            <mxPoint x="-3166.180496710575" y="1277.9292610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-167" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2984.430496710575" y="1097.9292610919838" as="sourcePoint" />
+            <mxPoint x="-2984.430496710575" y="1277.9292610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-168" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2570.000496710575" y="1097.9292610919838" as="sourcePoint" />
+            <mxPoint x="-2570.000496710575" y="1277.9292610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-169" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3367.930496710575" y="1277.9292610919838" as="sourcePoint" />
+            <mxPoint x="-2470" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-170" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2470.000496710575" y="1279.9992610919837" as="sourcePoint" />
+            <mxPoint x="-2470.000496710575" y="749.9992610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-171" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="E3CcXxvAo6CYev3NGwQB-144" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2470" y="747.93" as="sourcePoint" />
+            <mxPoint x="-2897.930496710575" y="837.9292610919838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-172" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;Actualiza los fondos de becas.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="150" x="-2853.999999710575" y="967.9300000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-173" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2854" y="1007.4299999080163" as="sourcePoint" />
+            <mxPoint x="-2704" y="1007.4299999080163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Actualización de los fondos de becas&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="129.5" x="-2844" y="977.93" as="geometry" />
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-183" edge="1" parent="1" source="E3CcXxvAo6CYev3NGwQB-144" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.699;exitY=1.002;exitDx=0;exitDy=0;" target="E3CcXxvAo6CYev3NGwQB-172" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2820" y="980" as="sourcePoint" />
+            <mxPoint x="-2770" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-184" connectable="0" parent="E3CcXxvAo6CYev3NGwQB-183" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="Actualización estimada anual&amp;nbsp;&lt;div&gt;gastos operativos&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.073" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-185" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E3CcXxvAo6CYev3NGwQB-151" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2575" y="780" as="sourcePoint" />
+            <mxPoint x="-2620" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-186" connectable="0" parent="E3CcXxvAo6CYev3NGwQB-185" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Producir un informe&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0422" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-188" edge="1" parent="1" source="E3CcXxvAo6CYev3NGwQB-144" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.476;exitY=1.053;exitDx=0;exitDy=0;" target="E3CcXxvAo6CYev3NGwQB-149" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2980" y="780" as="sourcePoint" />
+            <mxPoint x="-2910" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-189" connectable="0" parent="E3CcXxvAo6CYev3NGwQB-188" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Actualización estimada anual&lt;/span&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;gastos operativos&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0002" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-190" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E3CcXxvAo6CYev3NGwQB-147" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3170" y="780" as="sourcePoint" />
+            <mxPoint x="-3070" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-191" connectable="0" parent="E3CcXxvAo6CYev3NGwQB-190" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Gestionar un archivo&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0578" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-192" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E3CcXxvAo6CYev3NGwQB-161" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3363.93" y="780" as="sourcePoint" />
+            <mxPoint x="-3290" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-193" connectable="0" parent="E3CcXxvAo6CYev3NGwQB-192" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Estimar fondos&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;para la semana&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0337" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E3CcXxvAo6CYev3NGwQB-194" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2779.5" y="1097.93" as="sourcePoint" />
+            <mxPoint x="-2779.5" y="1277.93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
