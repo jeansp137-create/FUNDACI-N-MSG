@@ -1,0 +1,12 @@
+# Modelos de draw.io: conservar los archivos originales (.drawio, .drawio.svg, etc.)
+# Archivos temporales o de bloqueo que incluyen la secuencia ".$"
+*.$*
+
+# Otras variantes habituales de archivos temporales o de bloqueo
+~$*
+.~*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
